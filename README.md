@@ -1,3 +1,15 @@
+# Citation
+```bibtex
+@misc{khanzadeh2025agentmeshcooperativemultiagentgenerative,
+      title={AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation}, 
+      author={Sourena Khanzadeh},
+      year={2025},
+      eprint={2507.19902},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2507.19902}, 
+}
+```
 # AgentMesh - Cooperative Multi-Agent Generative AI System
 
 A Python application where multiple LLM-powered agents collaborate on software development tasks. Each agent has a distinct role in the development pipeline.
